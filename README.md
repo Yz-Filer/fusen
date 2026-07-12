@@ -153,8 +153,8 @@
 - アプリケーションを終了：アプリを終了する  
 
 ## 6. ライセンス
-本ソフトウェア（fusen）
-Copyright (c) 2026 Yz
-Released under the MIT license
-https://opensource.org/licenses/mit-license.php
+本ソフトウェア（fusen）  
+Copyright (c) 2026 Yz  
+Released under the MIT license  
+https://opensource.org/licenses/mit-license.php  
 作者または著作権者は、本ソフトウェアに起因して被った直接的または間接的損害については一切責任を負わず、また保証/補償も出来ません  
