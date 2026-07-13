@@ -3,13 +3,13 @@
 [go言語 & gotk3をちょっとやり直してみたい](https://github.com/Yz-Filer/golang)  で途中まで作ったのでアプリ化しました。  
 フリーの付箋アプリは既に色々な物が公開されているのですが、「左揃え」とかで検索してもあまり整列機能がある付箋アプリは見つけられなかったので、整列機能をつける方向で作成してみました。  
 
-- [GitHub Releases](https://github.com/Yz-Filer/fusen/releases)  
-
 ![](image/fusen3.png)  
 
 テキストと画像は別々の付箋ですが、整列機能を使うと綺麗に並べることも出来ます。
 
 ## 1. インストール  
+
+- [GitHub Releases](https://github.com/Yz-Filer/fusen/releases)  
 
 レジストリは使用してないので、任意のフォルダに解凍して下さい。  
 アンインストールは、フォルダごと削除するだけです。  
